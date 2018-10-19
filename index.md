@@ -26,3 +26,4 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
   {% include feature_col.html id="case-study" type="right" index=random %}
 
 <div>
+ 
