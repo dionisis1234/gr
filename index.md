@@ -13,7 +13,7 @@ excerpt: 'Σχεδιασμός και κατασκευή συνεργατικώ�
 
 <div class="feature__wrapper">
   
-  {% include twitter.html align="left" index=static. %}
+  {% include twitter.html align="left" index=static %}
   
   {% assign random = site.time | date: "%s%N" | modulo: site.biography.size %}
 
